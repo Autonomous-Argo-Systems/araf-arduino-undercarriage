@@ -7,7 +7,6 @@ This code is a rosnode that is made to interface with ros to control the neorove
 This is the first EXPERIMENTAL setup of the neorover to control it with ros. 
 It uses a lot of wires and is a bit messy but works most of the time.\
 It is experimental for a reason so do not use it on the new boards.\
-<img src="Cable-Mess.jpg"  width="300" height="250">
 
 ## setup
 ![Wire Diagram](Experimental-Wire-Diagram.png)
