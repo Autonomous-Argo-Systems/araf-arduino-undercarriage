@@ -11,4 +11,4 @@ It uses a lot of wires and is a bit messy but works most of the time.
 
 ## flash
 It is recommended to use the platformio extension for VS-Code to build an compile the code for an arduino nano.
-\n Please follow this tutorial: [Install PlatformIO Guide](https://platformio.org/install)
+\Please follow this tutorial: [Install PlatformIO Guide](https://platformio.org/install)
