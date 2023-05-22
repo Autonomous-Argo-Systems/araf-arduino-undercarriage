@@ -1,10 +1,13 @@
 # DEPRECATED! DO NOT USE. Replaced by [araf-esp32-undercarriage](https://github.com/Autonomous-Argo-Systems/araf-esp32-undercarriage)
 ## araf-arduino-onderstel
+![Neorover](Neorover.jpg)
 This code is a rosnode that is made to interface with ros to control the neorover.
 
 ## purpose
-To control the neorover undercarraige, a setup is needed. This the first EXPERIMENTAL setup of the neorover to control it with ros. 
+This is the first EXPERIMENTAL setup of the neorover to control it with ros. 
 It uses a lot of wires and is a bit messy but works most of the time. 
+It is experimental for a reason so do not use it on the new boards.
+![Cable-Mess](Cable-Mess.jpg)
 
 ## setup
 ![Wire Diagram](Experimental-Wire-Diagram.png)
